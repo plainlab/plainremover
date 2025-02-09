@@ -9,8 +9,8 @@ PlainRemover
 - [x] **Custom ONNX Models**: Bring your own models to fit your need.
 - [x] **User-Friendly Interface**: Easy-to-use UI for non-technical users.
 - [x] **Cross-Platform Support**: Works on Windows, macOS, and Linux.
+- [x] **Custom Background Replacement**: Replace the removed background with a solid color or another image.
 - [ ] **Batch Processing**: Process multiple images at once.
-- [ ] **Custom Background Replacement**: Replace the removed background with a solid color or another image.
 
 ## Demo
 
