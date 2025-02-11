@@ -12,10 +12,6 @@ PlainRemover
 - [x] **Custom Background Replacement**: Replace the removed background with a solid color or another image.
 - [ ] **Batch Processing**: Process multiple images at once.
 
-## Demo
-
-![Demo](./demo.png)
-
 ## Installation
 
 Download page: https://github.com/plainlab/plainremover/releases/latest
@@ -25,7 +21,14 @@ Download page: https://github.com/plainlab/plainremover/releases/latest
 - Windows: Get `.exe` file and open it to install.
 - Linux: Get `.AppImage` file to install.
 
-## Download custom models
+## Screenshot
+
+![Demo](./demo.png)
+
+## Custom models
+
+<details>
+<summary>Model list</summary>
 
 - u2net ([download](https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2net.onnx), [source](https://github.com/xuebinqin/U-2-Net)): A pre-trained model for general use cases.
 - u2netp ([download](https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2netp.onnx), [source](https://github.com/xuebinqin/U-2-Net)): A lightweight version of u2net model.
@@ -44,6 +47,8 @@ Download page: https://github.com/plainlab/plainremover/releases/latest
 - birefnet-massive ([download](https://github.com/danielgatis/rembg/releases/download/v0.0.0/BiRefNet-massive-TR_DIS5K_TR_TEs-epoch_420.onnx), [source](https://github.com/ZhengPeng7/BiRefNet)): A pre-trained model with massive dataset.
 
 Credit: https://github.com/danielgatis/rembg
+
+</details>
 
 ---
 
