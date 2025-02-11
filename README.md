@@ -14,12 +14,11 @@ PlainRemover
 
 ## Installation
 
-Download page: https://github.com/plainlab/plainremover/releases/latest
-
-- macOS: Get `.dmg` file, open it and drag the app into Applications folder, for Apple
-  Silicon mac: get `aarch64.dmg` file instead.
-- Windows: Get `.exe` file and open it to install.
-- Linux: Get `.AppImage` file to install.
+- For Windows: [PlainRemover_1.1.0_x64-setup.exe](https://github.com/plainlab/plainremover/releases/download/v1.1.0/PlainRemover_1.1.0_x64-setup.exe)
+- For macOS (Apple Silicon): [PlainRemover_1.1.0_aarch64.dmg](https://github.com/plainlab/plainremover/releases/download/v1.1.0/PlainRemover_1.1.0_aarch64.dmg)
+- For macOS (Intel): [PlainRemover_1.1.0_x64.dmg](https://github.com/plainlab/plainremover/releases/download/v1.1.0/PlainRemover_1.1.0_x64.dmg)
+- For Linux: [PlainRemover_1.1.0_amd64.AppImage](https://github.com/plainlab/plainremover/releases/download/v1.1.0/PlainRemover_1.1.0_amd64.AppImage)
+- All versions: [PlainRemover](https://github.com/plainlab/plainremover/releases/latest)
 
 ## Screenshot
 
